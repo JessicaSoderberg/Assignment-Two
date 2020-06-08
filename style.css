@@ -1,0 +1,26 @@
+
+* {outline: black solid 1px}
+
+/* xs devices */
+body { background-color: red}
+
+
+/* sm devices */
+@media (min-width:576px){ 
+body {background-color: orange}
+}
+
+/* md devices */
+@media (min-width: 768px){ 
+body {background-color: yellow}
+}
+
+/* lg devices */
+@media (min-width:992px){ 
+body {background-color: green}
+}
+            
+/* xl devices */
+@media (min-width:1200px){ 
+body {background-color: blueviolet}
+}
