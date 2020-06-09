@@ -1,5 +1,5 @@
 
-/* * {outline: black solid 1px} */
+ * {outline: black solid 1px} 
 
 /* xs devices */
 body { background-color: red}
@@ -28,5 +28,10 @@ body {background-color: lightpink}
 font-family: 'Skranji', cursive;
 
 .logo{
-    margin: center;
+    border-left: 100px;
+    
+}
+
+.menu{
+    
 }
