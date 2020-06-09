@@ -1,5 +1,5 @@
 
-* {outline: black solid 1px}
+/* * {outline: black solid 1px} */
 
 /* xs devices */
 body { background-color: red}
@@ -26,3 +26,7 @@ body {background-color: lightpink}
 
 @import url('https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap');
 font-family: 'Skranji', cursive;
+
+.logo{
+    margin: center;
+}
