@@ -1,5 +1,5 @@
 
-  * {outline: black solid 1px} 
+  /* * {outline: black solid 1px} */
 
 /* xs devices */
 body { background-color: red}
@@ -66,19 +66,38 @@ body, html {
     padding-bottom: 10px;
 }
 
-.burger{
-    padding: 10px;
+/* HOME PAGE CODE */
+
+    .burger{
+        padding: 10px;
+    }
+
+    .galleygrub {
+        margin: 0 auto;
+        background-color: #36e0b7;
+    }
+
+    .whitetext{
+        color: white;
+    }
+
+    .dinerimage{
+        
+    }
+
+/* LOCATIONS PAGE CODE */
+
+.picture{
+    padding: 20px;
+    
 }
 
-.galleygrub {
-    margin: 0 auto;
-    background-color: #36e0b7;
+.bikinis{
+    outline: 1px solid black;
 }
 
-.whitetext{
-    color: white;
-}
 
-.dinerimage{
-    padding-bottom: 30px;
-}
+
+
+
+
