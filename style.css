@@ -27,11 +27,36 @@ body {background-color: lightpink}
 @import url('https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap');
 font-family: 'Skranji', cursive;
 
-.logo{
-    border-left: 100px;
-    
+body, html {
+  height: 100%;
 }
 
-.menu{
-    
+.bg {
+  background-image: url("images/background.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: larger; 
+}
+
+.navbtns{
+    font-size: 50px;
+}
+
+.logo{
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.burger{
+    margin: 0 auto;
+    padding: 10px;
 }
