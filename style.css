@@ -1,5 +1,5 @@
 
- * {outline: black solid 1px} 
+ /* * {outline: black solid 1px} */
 
 /* xs devices */
 body { background-color: red}
@@ -31,23 +31,27 @@ body, html {
   height: 100%;
 }
 
-.bg {
+.backg{
+    background-color: #42B1E1;
+}
+}
+/* .bg {
   background-image: url("images/background.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 .title{
-    display: flex;
-    justify-content: center;
-    color: red;
+    margin: 0 auto;
+    color: #E07958;
     font-size: larger; 
 }
 
 .navbtns{
     font-size: 50px;
+    
 }
 
 .logo{
