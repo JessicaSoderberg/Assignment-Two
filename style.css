@@ -35,6 +35,7 @@ body, html {
 
 .backg{
     background-color: #4c66e0;
+    height: 100%;
 }
 
 /* .bg {
@@ -88,11 +89,21 @@ body, html {
 /* LOCATIONS PAGE CODE */
 
 .picture{
-    padding: 20px;
-    
+    padding: 25px; 
+    border: 1px solid white;
 }
 
+.blurb{
+    padding: 20px;
+    color: white;
+   
+}
 
+/* ABOUT US PAGE CODE */
+
+.aboutpage{
+    background-color:#4c66e0;
+}
 
 
 
